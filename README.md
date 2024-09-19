@@ -113,11 +113,3 @@ else:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-This updated `README.md` file includes:
-- **Enhanced preprocessing** details.
-- **Model architecture** and training instructions.
-- **Example of testing** and handling file errors.
-- **Suggestions for future improvements**.
-
-Feel free to adjust any sections based on your specific needs or additional features.
